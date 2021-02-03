@@ -21,15 +21,15 @@ CSS grid project
 - html
 - CSS
 
-![picture of the tribute page](tribute_1.png)
+![picture of the landing page](landing1.png)
 
 ---
 
-![picture of the tribute page](tribute_2.png)
+![picture of the landing page](landing2.png)
 
 ---
 
-![picture of the tribute page test](tribute_test.png)
+![picture of the landing page test](landing3.png)
 
 ---
 
